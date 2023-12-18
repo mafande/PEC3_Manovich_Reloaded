@@ -35,7 +35,7 @@ El juego combina mapas en 2D, localización GPS, giroscopio y cámara de manera 
 ![Plickers](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Plickers.jpg/450px-Plickers.jpg)
 
 #### ¿Qué es?
-Plickers es una herramienta de realidad aumentada para generar cuestionarios online con cuatro posibles respuestas (A, B, C y D). Su finalidad es poder evaluar a los alumnos en las aulas sin que estos necesiten ningún dispositivo. Permite obtener los resultados de cada participante al momento y realizar estadísticas con las respuestas recogidas, convirtiendo el aprendizaje en un juego.
+Plickers es una herramienta de realidad aumentada que se utiliza para generar cuestionarios online con cuatro posibles respuestas (A, B, C y D). Su finalidad es poder evaluar a los alumnos en las aulas sin que estos necesiten ningún dispositivo. Permite obtener los resultados de cada participante al momento y realizar estadísticas con las respuestas recogidas, convirtiendo el aprendizaje en un juego.
 
 #### ¿Cómo se utiliza?
 El docente tiene que descargarse la aplicación compatible con iOS y Android en su móvil o tablet, crear un grupo e introducir los datos de sus alumnos. A continuación, tendrá que imprimir una ficha por cada alumno. Estas se utilizarán para contestar a las preguntas de los cuestionarios que introducirá el profesor en el programa. La particularidad de estas fichas es que tienen cuatro posibles posiciones según como se giren, que se corresponden con las cuatro posibles respuestas a las preguntas. Cada ficha identifica a un alumno, de manera que cuando captemos las respuestas sabremos qué ha contestado cada uno. La identidad del alumno puede mostrarse u ocultarse en los resultados, según crea conveniente el profesor.
