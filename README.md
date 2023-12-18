@@ -15,7 +15,7 @@ Tomando de referencia a Manovich y otros estudiosos de la evolución social y te
 -	Hibridación
 
 ## Re-descubriendo la hibridacion: Pokémon GO
-![Pokémon GO](https://upload.wikimedia.org/wikipedia/commons/3/36/App-augmented-reality-game-gps-163042.jpg)
+![Pokémon GO](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/App-augmented-reality-game-gps-163042.jpg/800px-App-augmented-reality-game-gps-163042.jpg)
 
 #### ¿Qué es?
 Pokémon Go es un videojuego de realidad aumentada para dispositivos móviles desarrollado por Niantic para la compañía Nintendo. Utiliza mapas reales en 2D combinado con la ubicación GPS del teléfono móvil para mostrar en pantalla los *pokémon*, las criaturas del mundo ficticio en el que se desarrolla el juego. También presenta lugares emblemáticos de las ciudades en forma de *pokeparadas*, ubicaciones con las que podemos interactuar en el juego para conseguir varios objetos. Por último, también dispone de los llamados gimnasios, donde podemos poner a prueba nuestro equipo de pokémon luchando contra rivales pertenecientes a otro jugador.
@@ -53,9 +53,20 @@ También hemos observado que, aunque se traten de hibridaciones eso no está re�
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, L. (2006) **El lenguaje de los nuevos medios de comunicación: La imagen en la era digital**. Barcelona: Editorial Paidós.
+* Manovich, L. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Observatorio de tecnología educativa (2019) Plickers en el aula (o cómo evaluar sin que sufran).
+Disponible en: https://intef.es/observatorio_tecno/plickers-en-el-aula-o-como-evaluar-sin-que-sufran/
+* Universitat Oberta de Catalunya (UOC) (2018) **Elementos de la creatividad multimedia: apropiación, remediación, hibridación**. Disponible en: https://mosaic.uoc.edu/2018/01/18/elementos-de-la-creatividad-multimedia-apropiacion-remediacion-hibridacion/
+* Wikipedia (2023) **Pokémon GO**. Disponible en: https://es.wikipedia.org/wiki/Pok%C3%A9mon_GO
+* Wikiversidad (2017) **Herramientas TIC aplicadas a la educación/Plickers**. Disponible en: https://es.wikiversity.org/wiki/Herramientas_TIC_aplicadas_a_la_educaci%C3%B3n/Plickers
 
-
+Imágenes:
+* CC BY-SA [Pokémon GO](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/App-augmented-reality-game-gps-163042.jpg/800px-App-augmented-reality-game-gps-163042.jpg)
+* CC0 [Plickers](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Plickers.jpg/450px-Plickers.jpg)
+* CC0 [Smartphone](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Smartphone-1184865_960_720.png/617px-Smartphone-1184865_960_720.png)
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
+
+
