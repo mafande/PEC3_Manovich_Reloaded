@@ -14,7 +14,7 @@ Tomando de referencia a Manovich y otros estudiosos de la evolución social y te
 -	Multimedia.
 -	Hibridación.
 
-## Re-descubriendo la hibridacion: Pokémon GO
+## Re-descubriendo la hibridación: Pokémon GO
 ![Pokémon GO](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/App-augmented-reality-game-gps-163042.jpg/800px-App-augmented-reality-game-gps-163042.jpg)
 
 #### ¿Qué es?
@@ -31,7 +31,7 @@ Una vez sabemos en qué consiste este videojuego de realidad aumentada, lo que q
 
 El juego combina, entre otras, mapas en 2D, localización GPS, giroscopio y cámara de manera que si intentáramos utilizarlos por separado no tendrían ningún sentido. El juego no puede funcionar sin la conjunción de todas estas herramientas, no podemos separarlas en módulos independientes, solo funcionan en su conjunto para formar algo nuevo. Por tanto, no se trata de multimedia: convivencia de forma contigua de distintos tipos de medios (Manovich 2013) sino de hibridación.
 
-## Re-descubriendo la hibridacion: Plickers
+## Re-descubriendo la hibridación: Plickers
 ![Plickers](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Plickers.jpg/450px-Plickers.jpg)
 
 #### ¿Qué es?
