@@ -18,7 +18,7 @@ Tomando de referencia a Manovich y otros estudiosos de la evolución social y te
 ![Pokémon GO](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/App-augmented-reality-game-gps-163042.jpg/800px-App-augmented-reality-game-gps-163042.jpg)
 
 #### ¿Qué es?
-Pokémon Go es un videojuego de realidad aumentada para dispositivos móviles desarrollado por Niantic para la compañía Nintendo. Utiliza mapas reales en 2D combinado con la ubicación GPS del teléfono móvil para mostrar en pantalla los *pokémon*, las criaturas del mundo ficticio en el que se desarrolla el juego. También presenta lugares emblemáticos de las ciudades en forma de *pokeparadas*, ubicaciones con las que podemos interactuar en el juego para conseguir varios objetos. Por último, también dispone de los llamados gimnasios, donde podemos poner a prueba nuestro equipo de pokémon luchando contra rivales pertenecientes a otro jugador.
+Pokémon Go es un videojuego de realidad aumentada para dispositivos móviles desarrollado por Niantic para la compañía Nintendo. Utiliza mapas reales en 2D combinado con la ubicación GPS del teléfono móvil para mostrar en pantalla los *pokémon*, las criaturas del mundo ficticio en el que se desarrolla el juego. También presenta lugares emblemáticos de las ciudades en forma de *pokeparadas*, ubicaciones con las que podemos interactuar en el juego para conseguir varios objetos. Por último, también dispone de los llamados gimnasios, donde podemos poner a prueba nuestro equipo de *pokémon* luchando contra rivales pertenecientes a otro jugador.
 
 La finalidad del juego es completar la *pokédex*, una enciclopedia donde constan todos los tipos de *pokémon* que existen en el juego.
 #### ¿Cómo funciona?
