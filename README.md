@@ -8,11 +8,11 @@ Autor: **Mónica Afán de Ribera Amador**
 ![Hibridación de medios](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Smartphone-1184865_960_720.png/617px-Smartphone-1184865_960_720.png)
 
 ## Introducción
-Lev Manovich analiza la repercusión del metamedio ordenador, así como la aparición del software y cómo ha sido la evolución de los nuevos medios surgidos a raíz de estos.
+Lev Manovich analiza la repercusión del *metamedio* ordenador, así como la aparición del software y cómo ha sido la evolución de los *nuevos medios* surgidos a raíz de estos.
 Tomando de referencia a Manovich y otros estudiosos de la evolución social y tecnológica, vamos a tratar estos términos clave en las siguientes líneas: 
--	Remediación
--	Multimedia
--	Hibridación
+-	Remediación.
+-	Multimedia.
+-	Hibridación.
 
 ## Re-descubriendo la hibridacion: Pokémon GO
 ![Pokémon GO](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/App-augmented-reality-game-gps-163042.jpg/800px-App-augmented-reality-game-gps-163042.jpg)
