@@ -43,7 +43,7 @@ El docente tiene que descargarse la aplicación compatible con iOS y Android en 
 Las preguntas se proyectan en una pizarra para que todos los alumnos puedan leerlas, después estos alzarán su ficha en la posición que se corresponda con la respuesta que crean correcta y, por último, el profesor tendrá que utilizar la cámara de su móvil o tablet con la aplicación de Plickers abierta para captar cada una de las fichas. Tras esto, aparecerán en la aplicación del profesor las respuestas de los alumnos.
 
 #### Según Manovich, ¿ante qué estamos?
-Se trata de una forma muy novedosa de evaluar a los alumnos en las aulas. Reinventa los exámenes a papel mezclando la escritura digital y la realidad aumentada y, además, ofrece nuevas funcionalidades como la posibilidad de ver estadísticas de la clase. Teniendo todo esto en cuenta, podemos afirmar que estamos ante una remediación de un *viejo medio*.
+Se trata de una forma muy novedosa de evaluar a los alumnos en las aulas. Reinventa los exámenes a papel mezclando la escritura digital y la realidad aumentada y, además, ofrece nuevas funcionalidades como la posibilidad de ver estadísticas de la clase. Teniendo todo esto en cuenta, podemos afirmar que estamos ante una **remediación** de un *viejo medio*.
 
 Por otro lado, su sistema que combina la fotografía y la escritura digital en una simbiosis perfecta que carece de significado si no es usado en su conjunto se trata de una **hibridación**. La aplicación no podría apreciarse de manera separada tomando las imágenes por un lado y los textos por otro, no estamos ante una multimedia, sino que se trata de una nueva manera de navegar e interaccionar con formatos de medios ya existentes (Manovich, 2013).
 
