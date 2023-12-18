@@ -32,7 +32,7 @@ Una vez sabemos en qué consiste este videojuego de realidad aumentada, lo que q
 El juego combina, entre otras, mapas en 2D, localización GPS, giroscopio y cámara de manera que si intentáramos utilizarlos por separado no tendrían ningún sentido. El juego no puede funcionar sin la conjunción de todas estas herramientas, no podemos separarlas en módulos independientes, solo funcionan en su conjunto para formar algo nuevo. Por tanto, no se trata de multimedia: convivencia de forma contigua de distintos tipos de medios (Manovich 2013) sino de hibridación.
 
 ## Re-descubriendo la hibridacion: Plickers
-![Plickers](https://upload.wikimedia.org/wikipedia/commons/0/09/Plickers.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Plickers.jpg/450px-Plickers.jpg)
+![Plickers](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Plickers.jpg/450px-Plickers.jpg)
 
 #### ¿Qué es?
 Plickers es una herramienta de realidad aumentada para generar cuestionarios online con cuatro posibles respuestas (A, B, C y D). Su finalidad es poder evaluar a los alumnos en las aulas sin que estos necesiten ningún dispositivo. Permite obtener los resultados de cada participante al momento y realizar estadísticas con las respuestas recogidas, convirtiendo el aprendizaje en un juego.
