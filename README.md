@@ -29,7 +29,7 @@ El juego también calcula la velocidad a la que nos movemos mientras estamos jug
 #### Según Manovich, ¿de qué se trata?
 Una vez sabemos en qué consiste este videojuego de realidad aumentada, lo que queremos es averiguar, según Manovich, ante qué estamos. ¿Se trata de una hibridación de medios? La respuesta es un rotundo sí. Vamos a analizar por qué.
 
-El juego combina mapas en 2D, localización GPS, giroscopio y cámara de manera que si intentáramos utilizarlos por separado no tendrían ningún sentido. Además, también cuenta con efectos de sonido, música, imágenes... es decir, integra diferentes elementos.   El juego no puede funcionar sin la conjunción de todas estas herramientas, no podemos separarlas en módulos independientes, solo funcionan en su conjunto para formar algo nuevo. Por tanto, no se trata de multimedia: convivencia de forma contigua de distintos tipos de medios (Manovich 2013) sino de hibridación y más concretamente, una **hibridación de medios**.
+El juego combina mapas en 2D, localización GPS, giroscopio y cámara de manera que si intentáramos utilizarlos por separado no tendrían ningún sentido. Además, también cuenta con efectos de sonido, música, imágenes... es decir, integra diferentes elementos.   El juego no puede funcionar sin la conjunción de todas estas herramientas, no podemos separarlas en módulos independientes, solo funcionan en su conjunto para formar algo nuevo. Por tanto, no se trata de multimedia: convivencia de forma contigua de distintos tipos de medios (Manovich 2013) sino de una **hibridación de medios**.
 
 ## Re-descubriendo la hibridación: Plickers
 ![Plickers](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Plickers.jpg/450px-Plickers.jpg)
@@ -43,9 +43,9 @@ El docente tiene que descargarse la aplicación compatible con iOS y Android en 
 Las preguntas se proyectan en una pizarra para que todos los alumnos puedan leerlas, después estos alzarán su ficha en la posición que se corresponda con la respuesta que crean correcta y, por último, el profesor tendrá que utilizar la cámara de su móvil o tablet con la aplicación de Plickers abierta para captar cada una de las fichas. Tras esto, aparecerán en la aplicación del profesor las respuestas de los alumnos.
 
 #### Según Manovich, ¿ante qué estamos?
-Se trata de una forma muy novedosa de evaluar a los alumnos en las aulas. Reinventa los exámenes a papel mezclando la escritura digital y la realidad aumentada y, además, ofrece nuevas funcionalidades como la posibilidad de ver estadísticas de la clase. Teniendo todo esto en cuenta, podemos afirmar que estamos ante una remediación de un viejo medio.
+Se trata de una forma muy novedosa de evaluar a los alumnos en las aulas. Reinventa los exámenes a papel mezclando la escritura digital y la realidad aumentada y, además, ofrece nuevas funcionalidades como la posibilidad de ver estadísticas de la clase. Teniendo todo esto en cuenta, podemos afirmar que estamos ante una remediación de un *viejo medio*.
 
-Por otro lado, su sistema que combina la fotografía y la escritura digital en una simbiosis perfecta que carece de significado si no es usado en su conjunto se trata de una hibridación. La aplicación no podría apreciarse de manera separada tomando las imágenes por un lado y los textos por otro, no estamos ante una multimedia, sino que se trata de una nueva manera de navegar e interaccionar con formatos de medios ya existentes (Manovich, 2013).
+Por otro lado, su sistema que combina la fotografía y la escritura digital en una simbiosis perfecta que carece de significado si no es usado en su conjunto se trata de una **hibridación**. La aplicación no podría apreciarse de manera separada tomando las imágenes por un lado y los textos por otro, no estamos ante una multimedia, sino que se trata de una nueva manera de navegar e interaccionar con formatos de medios ya existentes (Manovich, 2013).
 
 ## Conclusiones
 Hemos analizado dos aplicaciones diferentes que hacen uso de la realidad aumentada, una con un fin lúdico y la otra educativo. Hemos aplicado los conceptos aprendidos de Manovich para discernir ante qué casos estábamos y hemos llegado a la conclusión de que no se trataban de multimedia, puesto que sus componentes están perfectamente entrelazados y no pueden disfrutarse por separado, y que, por tanto, son claros ejemplos de hibridación de medios.
@@ -61,7 +61,7 @@ Disponible en: https://intef.es/observatorio_tecno/plickers-en-el-aula-o-como-ev
 * Wikipedia (2023) **Pokémon GO**. Disponible en: https://es.wikipedia.org/wiki/Pok%C3%A9mon_GO
 * Wikiversidad (2017) **Herramientas TIC aplicadas a la educación/Plickers**. Disponible en: https://es.wikiversity.org/wiki/Herramientas_TIC_aplicadas_a_la_educaci%C3%B3n/Plickers
 
-Imágenes:
+**Imágenes:**
 * CC BY-SA [Pokémon GO](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/App-augmented-reality-game-gps-163042.jpg/800px-App-augmented-reality-game-gps-163042.jpg)
 * CC0 [Plickers](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Plickers.jpg/450px-Plickers.jpg)
 * CC0 [Smartphone](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Smartphone-1184865_960_720.png/617px-Smartphone-1184865_960_720.png)
