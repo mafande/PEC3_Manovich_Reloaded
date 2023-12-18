@@ -29,7 +29,7 @@ El juego también calcula la velocidad a la que nos movemos mientras estamos jug
 #### Según Manovich, ¿de qué se trata?
 Una vez sabemos en qué consiste este videojuego de realidad aumentada, lo que queremos es averiguar, según Manovich, ante qué estamos. ¿Se trata de una hibridación de medios? La respuesta es un rotundo sí. Vamos a analizar por qué.
 
-El juego combina, entre otras, mapas en 2D, localización GPS, giroscopio y cámara de manera que si intentáramos utilizarlos por separado no tendrían ningún sentido. El juego no puede funcionar sin la conjunción de todas estas herramientas, no podemos separarlas en módulos independientes, solo funcionan en su conjunto para formar algo nuevo. Por tanto, no se trata de multimedia: convivencia de forma contigua de distintos tipos de medios (Manovich 2013) sino de hibridación.
+El juego combina mapas en 2D, localización GPS, giroscopio y cámara de manera que si intentáramos utilizarlos por separado no tendrían ningún sentido. Además, también cuenta con efectos de sonido, música, imágenes... es decir, integra diferentes elementos.   El juego no puede funcionar sin la conjunción de todas estas herramientas, no podemos separarlas en módulos independientes, solo funcionan en su conjunto para formar algo nuevo. Por tanto, no se trata de multimedia: convivencia de forma contigua de distintos tipos de medios (Manovich 2013) sino de hibridación y más concretamente, una **hibridación de medios**.
 
 ## Re-descubriendo la hibridación: Plickers
 ![Plickers](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Plickers.jpg/450px-Plickers.jpg)
